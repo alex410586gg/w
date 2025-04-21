@@ -1,0 +1,3 @@
+warn("Requiring API")do
+loadstring(game:HttpGet("https://raw.githubusercontent.com/alex410586gg/khongthelochoem/refs/heads/main/khongthelochoem"))();
+end warn("API Loaded")
